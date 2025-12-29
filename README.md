@@ -7,6 +7,7 @@ SwarmUI Mobile UI extension is aimed to bring the ability to use SwarmUI on smar
 1. In the folder where SwarmUI is installed:
 * `cd src/Extensions`
 * `git clone https://github.com/Eugeniusz-Gienek/SwarmUI-MobileUIExtension.git`
+
 2a. In Web Interface
 * Click "Update and restart server" button in the "Server" tab in "Server info" subsection"
 
