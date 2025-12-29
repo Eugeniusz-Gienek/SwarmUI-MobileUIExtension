@@ -1,6 +1,6 @@
 # SwarmUI-MobileUIExtension
 
-SwarmUI Mobile UI extension is aimed to bring the ability to use SwarmUI on smartphones - fixes of some annoying bugs, better elements' sizes and positions etc.
+SwarmUI Mobile UI extension is aimed to bring the ability to use SwarmUI on smartphones - fixes of some annoying bugs, better elements' sizes and positions etc. Tested in [Android Firefox Mobile](https://play.google.com/store/apps/details?id=org.mozilla.firefox).
 
 ## How to install
 
