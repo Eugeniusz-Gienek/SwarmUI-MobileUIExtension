@@ -12,4 +12,5 @@ SwarmUI Mobile UI extension is aimed to bring the ability to use SwarmUI on smar
 * Click "Update and restart server" button in the "Server" tab in "Server info" subsection"
 
 2b. Still in console, in SwarmUI folder run `./launch-linux-dev.sh` (or `launch-windows-dev.ps1` I guess if using Windows, though can't check this as I don't use it)
+
 3. That's it.
